@@ -102,8 +102,6 @@ public class AddcustomerPage {
 	public void openCustomersMenu() throws InterruptedException {
 		customersMenu.click();
 		Thread.sleep(3000);
-		customersItem.click();
-		Thread.sleep(3000);
 	}
 	
 	public void openCustomersItem() throws InterruptedException {
@@ -111,7 +109,7 @@ public class AddcustomerPage {
 		Thread.sleep(3000);
 	}
 	
-	public void openAddCustomers() throws InterruptedException {
+	public void openNew() throws InterruptedException {
 		addCustomer.click();
 		Thread.sleep(3000);
 	}

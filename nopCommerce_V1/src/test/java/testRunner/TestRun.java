@@ -7,9 +7,9 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features=".//Features/Customers.feature",
+		features=".//Features/Giftcard.feature",
 		glue="stepDefinitions",
-		dryRun=false,
+		dryRun=true,
 		plugin= {"pretty","html:target/html-reports/reports.html"},
 		monochrome=true
 		

@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.java.en.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pageObjects.AddcustomerPage;
+import pageObjects.AddgiftCard;
 import pageObjects.LoginPage;
 
 
@@ -80,7 +81,7 @@ public class steps extends BaseClass{
 
 	@When("click on Add new button")
 	public void click_on_add_new_button() throws InterruptedException {
-	    addCust.openAddCustomers();
+	    addCust.openNew();
 	}
 
 	@Then("User can view Add new customer page")
@@ -112,7 +113,46 @@ public class steps extends BaseClass{
 	}
 
 	@Then("User can view confirmation message {string}")
-	public void user_can_view_confirmation_message(String string) {
+	public void user_can_view_confirmation_message(String conf) {
 		addCust.confirmation();
+		if(driver.getPageSource().contains(conf)) {
+			Assert.assertTrue(true);
+		}
+		else {
+			Assert.assertTrue(false);
+	    }
 	}
+	
+	@When("User clicks on sales Menu")
+	public void user_clicks_on_sales_menu() throws InterruptedException {
+	    addGift = new AddgiftCard(driver);
+	    addGift.openSalesMenu();
+	}
+	
+	@When("click on Gift cards Menu Item")
+	public void click_on_gift_cards_menu_item() throws InterruptedException {
+	   addGift.openGiftcardsItem();
+	}
+	
+	@Then("User can view Add new Gift card page")
+	public void user_can_view_add_new_gift_card_page() {
+		Assert.assertEquals("Add a new gift card / nopCommerce administration", driver.getTitle());
+	}
+	
+	@When("User enter Gift card info")
+	public void user_enter_gift_card_info() throws InterruptedException {
+		String gtype = "Physical";
+		addGift.selectGiftcardType(gtype);
+		addGift.enterInitialValue(83.75);
+		addGift.isgiftCardActivated("yes");
+		addGift.generateCode();
+		addGift.enterRecipientName(randomstring());
+		addGift.enterSenderName(randomstring());
+		addGift.enterMessage("NA");
+		if(gtype.equalsIgnoreCase("virtual")) {
+			addGift.enterRecipientEmail(randomstring()+"gamil.com");
+			addGift.enterSenderEmail(randomstring()+"gamil.com");
+		}
+	}
+
 }
