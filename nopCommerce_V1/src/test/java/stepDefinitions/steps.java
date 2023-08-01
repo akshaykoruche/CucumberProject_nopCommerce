@@ -10,6 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import pageObjects.AddcustomerPage;
 import pageObjects.AddgiftCard;
 import pageObjects.LoginPage;
+import pageObjects.SearchCustomerPage;
 
 
 public class steps extends BaseClass{
@@ -141,7 +142,7 @@ public class steps extends BaseClass{
 	
 	@When("User enter Gift card info")
 	public void user_enter_gift_card_info() throws InterruptedException {
-		String gtype = "Physical";
+		String gtype = "Virtual";
 		addGift.selectGiftcardType(gtype);
 		addGift.enterInitialValue(83.75);
 		addGift.isgiftCardActivated("yes");
@@ -150,9 +151,28 @@ public class steps extends BaseClass{
 		addGift.enterSenderName(randomstring());
 		addGift.enterMessage("NA");
 		if(gtype.equalsIgnoreCase("virtual")) {
-			addGift.enterRecipientEmail(randomstring()+"gamil.com");
-			addGift.enterSenderEmail(randomstring()+"gamil.com");
+			addGift.enterRecipientEmail(randomstring()+"@gamil.com");
+			addGift.enterSenderEmail(randomstring()+"@gamil.com");
 		}
 	}
+	
+	@When("Enter customer Email")
+	public void enter_customer_email() {
+	    searchCust = new SearchCustomerPage(driver);
+	    searchCust.enterEmail("steve_gates@nopCommerce.com");
+	}
+	@When("click on search button")
+	public void click_on_search_button() throws InterruptedException {
+		searchCust.clickSearch();
+		Thread.sleep(3000);
+	}
+	@Then("User should find Email in the search table")
+	public void user_should_find_email_in_the_search_table() {
+	    boolean status = searchCust.verifySearchedEmail("steve_gates@nopCommerce.com");
+	    Assert.assertTrue(status);
+	}
+
+
+
 
 }
