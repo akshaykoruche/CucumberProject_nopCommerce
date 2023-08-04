@@ -16,17 +16,17 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+
 Feature: Customers
 
 Background: Below are common steps for each scenario
- 		Given User launch chrome browser
+ 		Given User launch browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "admin@yourstore.com" and Password as "admin"
     And click on Login
     Then User can view Dashboard
 
-  @tag1
+  @sanity
   Scenario: Add a new customer
     When User clicks on customers Menu
     And click on customers Menu Item
@@ -36,7 +36,8 @@ Background: Below are common steps for each scenario
     And click on save button
     Then User can view confirmation message "The new customer has been added successfully."
     And close browser
-    
+  
+  @regression 
   Scenario: Search Customer by EmailID
     When User clicks on customers Menu
     And click on customers Menu Item

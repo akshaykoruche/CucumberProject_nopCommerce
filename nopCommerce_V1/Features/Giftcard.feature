@@ -16,12 +16,12 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+
 Feature: Gift Card
 
-  @tag1
+  @sanity
   Scenario: Add a gift card
-    Given User launch chrome browser
+    Given User launch browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "admin@yourstore.com" and Password as "admin"
     And click on Login

@@ -16,13 +16,13 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+
 Feature: Login feature file
   I want to use this template for Login
 
-  @tag1
+  @sanity
   Scenario: Successful Login with Valid Credentials
-    Given User launch chrome browser
+    Given User launch browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "admin@yourstore.com" and Password as "admin"
     And click on Login
@@ -30,9 +30,10 @@ Feature: Login feature file
     When User clicks on Logout link
     Then Page Title should be "Your store. Login"
     And close browser
-  @tag2
+  
+  @regression
   Scenario Outline: Login Data Driven
-  	Given User launch chrome browser
+  	Given User launch browser
     When User opens URL "https://admin-demo.nopcommerce.com/login"
     And User enters Email as "<email>" and Password as "<password>"
     And click on Login

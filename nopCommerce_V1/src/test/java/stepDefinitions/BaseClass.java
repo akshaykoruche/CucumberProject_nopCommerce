@@ -1,6 +1,9 @@
 package stepDefinitions;
 
+import java.util.Properties;
+
 import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 import pageObjects.AddcustomerPage;
@@ -14,6 +17,8 @@ public class BaseClass {
 	public AddcustomerPage addCust;
 	public AddgiftCard addGift;
 	public SearchCustomerPage searchCust;
+	public Logger logger;
+	public Properties configProp;
 	
 	//To generate random string for email
 	public static String randomstring() {

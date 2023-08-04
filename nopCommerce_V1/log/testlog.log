@@ -1,0 +1,410 @@
+2023-08-04 03:35:24,046 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:35:28,942 - nopCommerce -INFO - Opened URL
+2023-08-04 03:35:29,265 - nopCommerce -INFO - Entered Email
+2023-08-04 03:35:29,424 - nopCommerce -INFO - Entered Password
+2023-08-04 03:35:40,029 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 03:35:48,484 - nopCommerce -INFO - Opened customer Item
+2023-08-04 03:35:57,116 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 03:35:57,124 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 03:36:06,647 - nopCommerce -INFO - Entered customer information
+2023-08-04 03:36:15,087 - nopCommerce -INFO - Clicked on save button
+2023-08-04 03:36:15,162 - nopCommerce -INFO - Customer added successfully
+2023-08-04 03:36:15,381 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 03:36:18,260 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:36:19,409 - nopCommerce -INFO - Opened URL
+2023-08-04 03:36:19,669 - nopCommerce -INFO - Entered Email
+2023-08-04 03:36:19,763 - nopCommerce -INFO - Entered Password
+2023-08-04 03:36:27,007 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 03:36:31,568 - nopCommerce -INFO - Opened customer Item
+2023-08-04 03:36:31,576 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 03:36:34,928 - nopCommerce -INFO - Found search result
+2023-08-04 03:36:35,088 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 03:36:39,015 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:36:40,176 - nopCommerce -INFO - Opened URL
+2023-08-04 03:36:40,461 - nopCommerce -INFO - Entered Email
+2023-08-04 03:36:40,554 - nopCommerce -INFO - Entered Password
+2023-08-04 03:36:47,247 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 03:36:51,750 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 03:36:56,259 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 03:36:56,269 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 03:36:58,020 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 03:37:02,652 - nopCommerce -INFO - Clicked on save button
+2023-08-04 03:37:02,725 - nopCommerce -INFO - Customer added successfully
+2023-08-04 03:37:02,961 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 03:37:06,128 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:37:07,363 - nopCommerce -INFO - Opened URL
+2023-08-04 03:37:07,641 - nopCommerce -INFO - Entered Email
+2023-08-04 03:37:07,731 - nopCommerce -INFO - Entered Password
+2023-08-04 03:37:11,301 - nopCommerce -INFO - Logged In successfully
+2023-08-04 03:37:16,040 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 03:37:16,054 - nopCommerce -INFO - Logged In successfully
+2023-08-04 03:37:16,223 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 03:37:20,060 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:37:21,217 - nopCommerce -INFO - Opened URL
+2023-08-04 03:37:21,514 - nopCommerce -INFO - Entered Email
+2023-08-04 03:37:21,620 - nopCommerce -INFO - Entered Password
+2023-08-04 03:37:24,558 - nopCommerce -INFO - Logged In successfully
+2023-08-04 03:37:29,292 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 03:37:29,307 - nopCommerce -INFO - Logged In successfully
+2023-08-04 03:37:29,466 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 03:37:32,335 - nopCommerce -INFO - ****Launched Browser****
+2023-08-04 03:37:33,472 - nopCommerce -INFO - Opened URL
+2023-08-04 03:37:33,747 - nopCommerce -INFO - Entered Email
+2023-08-04 03:37:33,840 - nopCommerce -INFO - Entered Password
+2023-08-04 04:05:57,974 - nopCommerce -INFO - ****Launched Edge Browser****
+2023-08-04 04:06:01,006 - nopCommerce -INFO - Opened URL
+2023-08-04 04:06:01,366 - nopCommerce -INFO - Entered Email
+2023-08-04 04:06:01,495 - nopCommerce -INFO - Entered Password
+2023-08-04 04:06:08,546 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 04:06:13,054 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 04:06:18,783 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 04:06:18,793 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 04:06:20,542 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 04:06:31,396 - nopCommerce -INFO - Clicked on save button
+2023-08-04 04:06:31,455 - nopCommerce -INFO - Customer added successfully
+2023-08-04 04:06:32,069 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:49:19,356 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:49:22,190 - nopCommerce -INFO - Opened URL
+2023-08-04 04:49:22,507 - nopCommerce -INFO - Entered Email
+2023-08-04 04:49:22,615 - nopCommerce -INFO - Entered Password
+2023-08-04 04:49:28,553 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 04:49:32,771 - nopCommerce -INFO - Opened customer Item
+2023-08-04 04:49:37,776 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 04:49:37,784 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 04:49:46,964 - nopCommerce -INFO - Entered customer information
+2023-08-04 04:49:53,451 - nopCommerce -INFO - Clicked on save button
+2023-08-04 04:49:53,521 - nopCommerce -INFO - Customer added successfully
+2023-08-04 04:49:53,705 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:49:58,734 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:50:01,453 - nopCommerce -INFO - Opened URL
+2023-08-04 04:50:01,722 - nopCommerce -INFO - Entered Email
+2023-08-04 04:50:01,817 - nopCommerce -INFO - Entered Password
+2023-08-04 04:50:08,538 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 04:50:13,061 - nopCommerce -INFO - Opened customer Item
+2023-08-04 04:50:13,070 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 04:50:16,422 - nopCommerce -INFO - Found search result
+2023-08-04 04:50:16,598 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:50:19,309 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:50:20,569 - nopCommerce -INFO - Opened URL
+2023-08-04 04:50:20,883 - nopCommerce -INFO - Entered Email
+2023-08-04 04:50:20,984 - nopCommerce -INFO - Entered Password
+2023-08-04 04:50:26,918 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 04:50:31,283 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 04:50:35,699 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 04:50:35,707 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 04:50:37,344 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 04:50:42,804 - nopCommerce -INFO - Clicked on save button
+2023-08-04 04:50:42,855 - nopCommerce -INFO - Customer added successfully
+2023-08-04 04:50:43,030 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:50:45,893 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:50:47,953 - nopCommerce -INFO - Opened URL
+2023-08-04 04:50:48,246 - nopCommerce -INFO - Entered Email
+2023-08-04 04:50:48,341 - nopCommerce -INFO - Entered Password
+2023-08-04 04:50:52,184 - nopCommerce -INFO - Logged In successfully
+2023-08-04 04:50:57,161 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 04:50:57,173 - nopCommerce -INFO - Logged In successfully
+2023-08-04 04:50:57,334 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:51:00,006 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:51:01,531 - nopCommerce -INFO - Opened URL
+2023-08-04 04:51:01,824 - nopCommerce -INFO - Entered Email
+2023-08-04 04:51:01,931 - nopCommerce -INFO - Entered Password
+2023-08-04 04:51:04,870 - nopCommerce -INFO - Logged In successfully
+2023-08-04 04:51:09,676 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 04:51:09,692 - nopCommerce -INFO - Logged In successfully
+2023-08-04 04:51:09,870 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 04:51:13,639 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 04:51:14,736 - nopCommerce -INFO - Opened URL
+2023-08-04 04:51:15,030 - nopCommerce -INFO - Entered Email
+2023-08-04 04:51:15,154 - nopCommerce -INFO - Entered Password
+2023-08-04 05:15:57,155 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:16:00,383 - nopCommerce -INFO - Opened URL
+2023-08-04 05:16:00,697 - nopCommerce -INFO - Entered Email
+2023-08-04 05:16:00,797 - nopCommerce -INFO - Entered Password
+2023-08-04 05:16:04,867 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:16:10,882 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:16:10,900 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:16:11,123 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:16:14,045 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:16:15,262 - nopCommerce -INFO - Opened URL
+2023-08-04 05:16:15,553 - nopCommerce -INFO - Entered Email
+2023-08-04 05:16:15,649 - nopCommerce -INFO - Entered Password
+2023-08-04 05:16:18,442 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:16:23,422 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:16:23,444 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:16:23,648 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:16:26,546 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:16:28,456 - nopCommerce -INFO - Opened URL
+2023-08-04 05:16:28,727 - nopCommerce -INFO - Entered Email
+2023-08-04 05:16:28,827 - nopCommerce -INFO - Entered Password
+2023-08-04 05:22:20,893 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:22:23,007 - nopCommerce -INFO - Opened URL
+2023-08-04 05:22:23,314 - nopCommerce -INFO - Entered Email
+2023-08-04 05:22:23,414 - nopCommerce -INFO - Entered Password
+2023-08-04 05:22:28,460 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:22:34,220 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:22:34,236 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:22:34,417 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:22:38,395 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:22:40,264 - nopCommerce -INFO - Opened URL
+2023-08-04 05:22:40,559 - nopCommerce -INFO - Entered Email
+2023-08-04 05:22:40,655 - nopCommerce -INFO - Entered Password
+2023-08-04 05:22:44,111 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:22:49,424 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:22:49,439 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:22:49,612 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:22:52,511 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:22:54,444 - nopCommerce -INFO - Opened URL
+2023-08-04 05:22:54,742 - nopCommerce -INFO - Entered Email
+2023-08-04 05:22:54,839 - nopCommerce -INFO - Entered Password
+2023-08-04 05:49:51,635 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:49:54,429 - nopCommerce -INFO - Opened URL
+2023-08-04 05:49:54,706 - nopCommerce -INFO - Entered Email
+2023-08-04 05:49:54,791 - nopCommerce -INFO - Entered Password
+2023-08-04 05:49:57,792 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:50:02,788 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:50:02,802 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:50:02,995 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:55:03,947 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:55:06,098 - nopCommerce -INFO - Opened URL
+2023-08-04 05:55:06,370 - nopCommerce -INFO - Entered Email
+2023-08-04 05:55:06,467 - nopCommerce -INFO - Entered Password
+2023-08-04 05:55:12,982 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 05:55:17,585 - nopCommerce -INFO - Opened customer Item
+2023-08-04 05:55:21,951 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 05:55:21,980 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 05:55:30,998 - nopCommerce -INFO - Entered customer information
+2023-08-04 05:55:38,578 - nopCommerce -INFO - Clicked on save button
+2023-08-04 05:55:38,678 - nopCommerce -INFO - Customer added successfully
+2023-08-04 05:55:38,847 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:55:41,660 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:55:43,678 - nopCommerce -INFO - Opened URL
+2023-08-04 05:55:43,939 - nopCommerce -INFO - Entered Email
+2023-08-04 05:55:44,022 - nopCommerce -INFO - Entered Password
+2023-08-04 05:55:50,020 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 05:55:54,890 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 05:55:59,452 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 05:55:59,481 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 05:56:01,091 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 05:56:05,833 - nopCommerce -INFO - Clicked on save button
+2023-08-04 05:56:05,873 - nopCommerce -INFO - Customer added successfully
+2023-08-04 05:56:06,063 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 05:56:09,990 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 05:56:11,171 - nopCommerce -INFO - Opened URL
+2023-08-04 05:56:11,449 - nopCommerce -INFO - Entered Email
+2023-08-04 05:56:11,530 - nopCommerce -INFO - Entered Password
+2023-08-04 05:56:14,340 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:56:19,289 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 05:56:19,306 - nopCommerce -INFO - Logged In successfully
+2023-08-04 05:56:19,495 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:03:09,098 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:03:11,967 - nopCommerce -INFO - Opened URL
+2023-08-04 06:03:12,252 - nopCommerce -INFO - Entered Email
+2023-08-04 06:03:12,377 - nopCommerce -INFO - Entered Password
+2023-08-04 06:03:20,625 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:03:25,143 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:03:30,147 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:03:30,178 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 06:03:39,288 - nopCommerce -INFO - Entered customer information
+2023-08-04 06:03:47,267 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:03:47,393 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:03:47,577 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:03:50,393 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:03:51,519 - nopCommerce -INFO - Opened URL
+2023-08-04 06:03:51,780 - nopCommerce -INFO - Entered Email
+2023-08-04 06:03:51,863 - nopCommerce -INFO - Entered Password
+2023-08-04 06:03:58,511 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:04:03,033 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:04:03,042 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 06:04:06,346 - nopCommerce -INFO - Found search result
+2023-08-04 06:04:06,492 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:04:09,525 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:04:10,654 - nopCommerce -INFO - Opened URL
+2023-08-04 06:04:10,925 - nopCommerce -INFO - Entered Email
+2023-08-04 06:04:11,006 - nopCommerce -INFO - Entered Password
+2023-08-04 06:04:16,948 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 06:04:21,452 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 06:04:25,890 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:04:25,917 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 06:04:27,538 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 06:04:32,963 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:04:33,010 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:04:33,176 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:04:35,965 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:04:37,115 - nopCommerce -INFO - Opened URL
+2023-08-04 06:04:37,381 - nopCommerce -INFO - Entered Email
+2023-08-04 06:04:37,463 - nopCommerce -INFO - Entered Password
+2023-08-04 06:04:40,236 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:04:45,067 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:04:45,079 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:04:45,230 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:04:47,793 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:04:48,876 - nopCommerce -INFO - Opened URL
+2023-08-04 06:04:49,132 - nopCommerce -INFO - Entered Email
+2023-08-04 06:04:49,221 - nopCommerce -INFO - Entered Password
+2023-08-04 06:04:52,839 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:04:57,952 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:04:57,965 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:04:58,127 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:05:00,727 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:05:02,698 - nopCommerce -INFO - Opened URL
+2023-08-04 06:05:02,967 - nopCommerce -INFO - Entered Email
+2023-08-04 06:05:03,053 - nopCommerce -INFO - Entered Password
+2023-08-04 06:21:44,500 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:21:45,844 - nopCommerce -INFO - Opened URL
+2023-08-04 06:21:46,146 - nopCommerce -INFO - Entered Email
+2023-08-04 06:21:46,233 - nopCommerce -INFO - Entered Password
+2023-08-04 06:21:52,776 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:21:57,297 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:22:01,754 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:22:01,787 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 06:22:10,915 - nopCommerce -INFO - Entered customer information
+2023-08-04 06:22:17,027 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:22:17,127 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:22:17,296 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:22:20,082 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:22:22,189 - nopCommerce -INFO - Opened URL
+2023-08-04 06:22:22,480 - nopCommerce -INFO - Entered Email
+2023-08-04 06:22:22,566 - nopCommerce -INFO - Entered Password
+2023-08-04 06:22:31,429 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:22:35,912 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:22:35,922 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 06:22:39,273 - nopCommerce -INFO - Found search result
+2023-08-04 06:22:39,416 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:22:42,221 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:22:43,414 - nopCommerce -INFO - Opened URL
+2023-08-04 06:22:43,710 - nopCommerce -INFO - Entered Email
+2023-08-04 06:22:43,808 - nopCommerce -INFO - Entered Password
+2023-08-04 06:22:49,537 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 06:22:54,322 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 06:22:58,776 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:22:58,805 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 06:23:00,444 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 06:23:05,034 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:23:05,071 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:23:05,219 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:23:08,182 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:23:09,400 - nopCommerce -INFO - Opened URL
+2023-08-04 06:23:09,692 - nopCommerce -INFO - Entered Email
+2023-08-04 06:23:09,785 - nopCommerce -INFO - Entered Password
+2023-08-04 06:23:12,573 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:23:17,573 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:23:17,586 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:23:17,757 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:23:20,648 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:23:22,642 - nopCommerce -INFO - Opened URL
+2023-08-04 06:23:22,915 - nopCommerce -INFO - Entered Email
+2023-08-04 06:23:23,013 - nopCommerce -INFO - Entered Password
+2023-08-04 06:23:28,037 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:23:33,232 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:23:33,244 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:23:33,396 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:23:36,269 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:23:37,524 - nopCommerce -INFO - Opened URL
+2023-08-04 06:23:37,804 - nopCommerce -INFO - Entered Email
+2023-08-04 06:23:37,919 - nopCommerce -INFO - Entered Password
+2023-08-04 06:34:23,233 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:34:25,303 - nopCommerce -INFO - Opened URL
+2023-08-04 06:34:25,589 - nopCommerce -INFO - Entered Email
+2023-08-04 06:34:25,704 - nopCommerce -INFO - Entered Password
+2023-08-04 06:34:34,363 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:34:38,906 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:34:43,319 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:34:43,351 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 06:34:52,423 - nopCommerce -INFO - Entered customer information
+2023-08-04 06:35:01,113 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:35:01,246 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:35:01,403 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:35:04,166 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:35:06,182 - nopCommerce -INFO - Opened URL
+2023-08-04 06:35:06,474 - nopCommerce -INFO - Entered Email
+2023-08-04 06:35:06,563 - nopCommerce -INFO - Entered Password
+2023-08-04 06:35:14,513 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:35:18,999 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:35:19,009 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 06:35:22,355 - nopCommerce -INFO - Found search result
+2023-08-04 06:35:22,492 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:35:25,091 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:35:27,024 - nopCommerce -INFO - Opened URL
+2023-08-04 06:35:27,289 - nopCommerce -INFO - Entered Email
+2023-08-04 06:35:27,375 - nopCommerce -INFO - Entered Password
+2023-08-04 06:35:35,656 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 06:35:40,011 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 06:35:44,399 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:35:44,430 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 06:35:46,093 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 06:35:51,034 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:35:51,076 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:35:51,239 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:35:54,061 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:35:55,129 - nopCommerce -INFO - Opened URL
+2023-08-04 06:35:55,385 - nopCommerce -INFO - Entered Email
+2023-08-04 06:35:55,466 - nopCommerce -INFO - Entered Password
+2023-08-04 06:35:58,101 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:36:03,270 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:36:03,284 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:36:03,460 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:36:06,181 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:36:07,318 - nopCommerce -INFO - Opened URL
+2023-08-04 06:36:07,583 - nopCommerce -INFO - Entered Email
+2023-08-04 06:36:07,676 - nopCommerce -INFO - Entered Password
+2023-08-04 06:36:10,730 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:36:16,624 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:36:16,637 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:36:16,772 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:36:19,622 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:36:21,594 - nopCommerce -INFO - Opened URL
+2023-08-04 06:36:21,858 - nopCommerce -INFO - Entered Email
+2023-08-04 06:36:21,944 - nopCommerce -INFO - Entered Password
+2023-08-04 06:40:10,461 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:40:13,279 - nopCommerce -INFO - Opened URL
+2023-08-04 06:40:13,561 - nopCommerce -INFO - Entered Email
+2023-08-04 06:40:13,651 - nopCommerce -INFO - Entered Password
+2023-08-04 06:40:21,942 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:40:26,896 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:40:31,486 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:40:31,505 - nopCommerce -INFO - Started Entering customer information
+2023-08-04 06:40:40,656 - nopCommerce -INFO - Entered customer information
+2023-08-04 06:40:46,714 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:40:46,863 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:40:47,003 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:40:49,818 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:40:51,723 - nopCommerce -INFO - Opened URL
+2023-08-04 06:40:51,993 - nopCommerce -INFO - Entered Email
+2023-08-04 06:40:52,076 - nopCommerce -INFO - Entered Password
+2023-08-04 06:40:59,614 - nopCommerce -INFO - Clicked on customer Menu
+2023-08-04 06:41:04,208 - nopCommerce -INFO - Opened customer Item
+2023-08-04 06:41:04,216 - nopCommerce -INFO - Started searching customer through email
+2023-08-04 06:41:07,538 - nopCommerce -INFO - Found search result
+2023-08-04 06:41:07,670 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:41:10,536 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:41:11,694 - nopCommerce -INFO - Opened URL
+2023-08-04 06:41:11,965 - nopCommerce -INFO - Entered Email
+2023-08-04 06:41:12,053 - nopCommerce -INFO - Entered Password
+2023-08-04 06:41:17,865 - nopCommerce -INFO - Opened Sales Menu
+2023-08-04 06:41:22,610 - nopCommerce -INFO - Opened Gift card Item
+2023-08-04 06:41:27,052 - nopCommerce -INFO - Clicked on add new button
+2023-08-04 06:41:27,081 - nopCommerce -INFO - Entering Gift card Information
+2023-08-04 06:41:28,786 - nopCommerce -INFO - Entered Gift card Information
+2023-08-04 06:41:33,925 - nopCommerce -INFO - Clicked on save button
+2023-08-04 06:41:34,006 - nopCommerce -INFO - Customer added successfully
+2023-08-04 06:41:34,134 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:41:37,659 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:41:38,853 - nopCommerce -INFO - Opened URL
+2023-08-04 06:41:39,131 - nopCommerce -INFO - Entered Email
+2023-08-04 06:41:39,214 - nopCommerce -INFO - Entered Password
+2023-08-04 06:41:42,214 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:41:47,305 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:41:47,318 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:41:47,435 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:41:50,200 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:41:51,428 - nopCommerce -INFO - Opened URL
+2023-08-04 06:41:51,712 - nopCommerce -INFO - Entered Email
+2023-08-04 06:41:51,805 - nopCommerce -INFO - Entered Password
+2023-08-04 06:41:54,565 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:41:59,291 - nopCommerce -INFO - Logged Out successfully
+2023-08-04 06:41:59,304 - nopCommerce -INFO - Logged In successfully
+2023-08-04 06:41:59,420 - nopCommerce -INFO - ****Closed Browser****
+2023-08-04 06:42:02,057 - nopCommerce -INFO - ****Launched Chrome Browser****
+2023-08-04 06:42:03,191 - nopCommerce -INFO - Opened URL
+2023-08-04 06:42:03,467 - nopCommerce -INFO - Entered Email
+2023-08-04 06:42:03,554 - nopCommerce -INFO - Entered Password

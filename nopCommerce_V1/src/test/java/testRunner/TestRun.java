@@ -11,7 +11,8 @@ import io.cucumber.junit.CucumberOptions;
 		glue="stepDefinitions",
 		dryRun=false,
 		plugin= {"pretty","html:target/html-reports/reports.html"},
-		monochrome=true
+		monochrome=true,
+		tags= "@sanity or @regression"
 		
 		
 		)
